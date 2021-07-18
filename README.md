@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 A full snack developer 🍔
 Often found around community initiatives, open-source projects, and dogs.
 
@@ -19,6 +18,3 @@ HTML5, CSS3, JavaScript, Flutter(basic)
 C/C++, Java, Python
 •	Databases: MySQL, MongoDB
 
-
-
--->
