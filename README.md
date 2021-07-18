@@ -1,5 +1,3 @@
-### Hi there 👋
-
 A full snack developer 🍔
 Often found around community initiatives, open-source projects, and dogs.
 
@@ -8,7 +6,9 @@ Often found around community initiatives, open-source projects, and dogs.
 💬 Get in touch:
 
 LinkedIn -> https://www.linkedin.com/in/navdeepsuppal/
+Website -> https://navdeepuppal.github.io/#/
 
+Technical Skills 
 •	IDE: Android Studio, Apache NetBeans, Visual Studio
 •	OS: Linux, Windows, MacOS
 •	Front End Web Technologies: 
