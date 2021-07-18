@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**navdeepuppal/navdeepuppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full snack developer 🍔
+Often found around community initiatives, open-source projects, and dogs.
 
-Here are some ideas to get you started:
+🔭 My projects
+🌱 My communities
+💬 Get in touch:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+LinkedIn -> https://www.linkedin.com/in/navdeepsuppal/
+
+•	IDE: Android Studio, Apache NetBeans, Visual Studio
+•	OS: Linux, Windows, MacOS
+•	Front End Web Technologies: 
+HTML5, CSS3, JavaScript, Flutter(basic)
+•	Testing Tools, Utilities & DevOps: Maven, Jenkins, Docker, Azure DevOps, GitHub, Amazon Web Services (EC2, Elastic Beanstalk), Selenium, Nagios, Ansible
+•	Programming Languages:
+C/C++, Java, Python
+•	Databases: MySQL, MongoDB
+
+
+
 -->
