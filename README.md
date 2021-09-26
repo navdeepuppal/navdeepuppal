@@ -5,9 +5,6 @@ Often found around community initiatives, open-source projects, and dogs.
 🌱 My communities
 💬 Get in touch:
 
-LinkedIn -> https://www.linkedin.com/in/navdeepsuppal/
-Website -> https://navdeepuppal.github.io/#/
-
 Technical Skills 
 •	IDE: Android Studio, Apache NetBeans, Visual Studio
 •	OS: Linux, Windows, MacOS
